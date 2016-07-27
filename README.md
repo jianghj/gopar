@@ -1,6 +1,6 @@
 # gopar
 
-A [Parsec](!http://hackage.haskell.org/package/parsec-3.0.0)-like library for Go.
+A [Parsec](http://hackage.haskell.org/package/parsec-3.0.0)-like library for Go.
 
 Inspaired by https://github.com/sanyaade-buildtools/goparsec
 
